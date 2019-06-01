@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUni", "02.DatabaseFirst\SoftUni.csproj", "{FABA6F5B-5D57-4DBE-A8DC-F8A740FD6CA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FABA6F5B-5D57-4DBE-A8DC-F8A740FD6CA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FABA6F5B-5D57-4DBE-A8DC-F8A740FD6CA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FABA6F5B-5D57-4DBE-A8DC-F8A740FD6CA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FABA6F5B-5D57-4DBE-A8DC-F8A740FD6CA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56B981C4-F8B7-498F-A15A-4E4588A930BB}
+	EndGlobalSection
+EndGlobal
